@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">AppFB_GDS0241</string>
+
+        <string name="app_posicion">Posicion:</string>
+        <string name="app_estatus">Estatus:</string>
+        <string name="registrar_jugador">Registrar Jugador</string>
+
+        <string-array name="pocis_array">
+            <item>Portero</item>
+            <item>Defensa</item>
+            <item>Medio</item>
+            <item>Delantero</item>
+        </string-array>
+
+        <string-array name="est_array">
+            <item>Comprado</item>
+            <item>Prestado</item>
+            <item>Libre</item>
+        </string-array>
+
+
+</resources>

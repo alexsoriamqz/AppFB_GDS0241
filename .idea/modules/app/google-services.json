@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "439534662764",
+    "project_id": "diarioproyec",
+    "storage_bucket": "diarioproyec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439534662764:android:385a4d89d13790ec72d449",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.appfb_gds0241"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439534662764-t1ber9t1ch3ut2ssjcp1g4i4d8rtn17j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.utng.appfb_gds0241",
+            "certificate_hash": "b419138ed439a53900318c6e218140b842a0d036"
+          }
+        },
+        {
+          "client_id": "439534662764-bqjn0bm98pcaqvvb9tgrd8megdfbvun7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEQoUkKtWQQ2OOPV6HvkkFETExmqDdf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439534662764-bqjn0bm98pcaqvvb9tgrd8megdfbvun7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
